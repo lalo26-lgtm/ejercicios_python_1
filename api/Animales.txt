@@ -1,0 +1,10 @@
+perro
+gato
+elefante
+jirafa
+cocodrilo
+tiburon
+aguila
+serpiente
+leopardo
+tortuga

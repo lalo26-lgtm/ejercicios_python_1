@@ -1,0 +1,10 @@
+computadora
+telefono
+mochila
+cuaderno
+ventana
+lampara
+guitarra
+martillo
+bicicleta
+reloj
